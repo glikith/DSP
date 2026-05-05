@@ -1,10 +1,10 @@
 # DSP — Deadlock Simulator & Predictor
 
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-Graph-informational?style=flat)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat)
-![psutil](https://img.shields.io/badge/psutil-System%20Monitoring-grey?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-informational?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![psutil](https://img.shields.io/badge/psutil-grey?style=for-the-badge)
 
 > Simulate process-resource deadlock scenarios, detect cycles in resource allocation graphs, and predict deadlock risk using machine learning with both a GUI and a CLI.
 
